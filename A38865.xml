@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact account of the Royal Army under the command of His Grace Duke Schomberg with the particulars of a great defeat given to the Irish army near Boyle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38865</idno>
+            <idno type="STC">Wing E3582</idno>
+            <idno type="STC">ESTC R36208</idno>
+            <idno type="EEBO-CITATION">15618714</idno>
+            <idno type="OCLC">ocm 15618714</idno>
+            <idno type="VID">104179</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38865)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104179)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact account of the Royal Army under the command of His Grace Duke Schomberg with the particulars of a great defeat given to the Irish army near Boyle.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Williams ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Dundalk October 16, 1689."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Schomberg, Friedrich Hermann Schomberg, --  Duke of, 1615-1690.</term>
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104179:1" rendition="simple:additions"/>
+            <head>An Exact ACCOUNT OF THE Royal Army Under the Command of His Grace DUKE SCHOMBERG. WITH THE PARTICULARS of a GREAT DEFEAT Given to the <hi>IRISH</hi> ARMY near <hi>BOYLE.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Dundalk, October</hi> 16. 1689.</date>
+               </dateline>
+            </opener>
+            <p>THE <hi>Iriſh</hi> Army are decampt and moved as far as <hi>Atherdee,</hi> Eight Miles South of this place, where they are Incamp'd, but not In<g ref="char:EOLhyphen"/>trench'd: ſo that it's believed their ſtay will not be long there.</p>
+            <p>The late King gave order to burn all the Coun<g ref="char:EOLhyphen"/>try as they march'd And a Deſerter who came to the General, ſays, he was, with another, com<g ref="char:EOLhyphen"/>manded to fire a Houſe in their march, and whilſt his Comrade was at work he fled hither, and ſays he ſaw the Country on that ſide all on fire.</p>
+            <p>Since which ſome of our Men have been on the Ground where their Camp was, and give the Ge<g ref="char:EOLhyphen"/>neral an Account, That they left abundance of ſick Men, and many poor <hi>Iriſh;</hi> a great number of Men, Deal-Boards, empty Cask, Tables, Chairs; a great quantity of Forrage, and many other things.</p>
+            <p>Our great General by his prudent wary Conduct, without Fighting, hath diſheartened and ſo harraſſed the Enemy, that they were reduced to great wants in their Camp, of Ammunition, Salt and Brandy. The want of Salt created Diſeaſes and Death a<g ref="char:EOLhyphen"/>mongſt many; and receiving a Report the <hi>Danes</hi> were Landing at <hi>Carlingford,</hi> they decampt with great precipitancy and fear: And were it not for the preſence of their King and the Prieſts who tell them it's Damnation to deſert, and Salvation if they dye in the Cauſe, the Souldiers had long ſince left the Officers and Colours, there being no Money but Braſs and Copper amongſt them, whoſe Half-Crowns go in our Camp for a Peny, their Shillings for a Half-peny, and their Sixpences for Farthings. Such is their want of Forrage, that it's believed they muſt ſend their Horſe beyond <hi>Duhlin,</hi> and will ſecure their Foot and <hi>Droghedagh</hi> together. The late King hath put out a Proclamation, re<g ref="char:EOLhyphen"/>quiring all the <hi>
+                  <g ref="char:V">Ʋ</g>lſter Iriſh</hi> that followed them from thoſe parts, to quit in Six days the Coun<g ref="char:EOLhyphen"/>ties of <hi>Meath,</hi> of <hi>Dublin,</hi> &amp;c. and repair to the Mountains in <hi>Wicklow,</hi> and cauſed all the Pave<g ref="char:EOLhyphen"/>ments in <hi>Droghedagh</hi> to be taken up. The late King and <hi>Tyrconnel</hi> are now at <hi>Atherdee,</hi> which is their Head Quarters, and where Salt, Brandy and Tobacco are not to be had.</p>
+            <p>A few days ſince, about Ten Perſons in a ſmall Boat came hither from <hi>Dublin,</hi> which ſay, that the Colledge of <hi>Dublin</hi> is diſſolved, and made a Gaol for the Proteſtants, and Sir <hi>John Davis</hi> Late Se<g ref="char:EOLhyphen"/>cretary of State Priſoner there. That in <hi>Dublin</hi> and all over the Kingdom where they have Power, Churches and all convenient places are filled with Confined Proteſtants. God be praiſed our Ge<g ref="char:EOLhyphen"/>neral is well, and the Army full of Courage and Reſolution, deſiring nothing more than to Engage the Enemy; who were ſo fatigued and wanting of Courage, that though much Superiour to us, eſpecially in Horſe, never durſt attempt to force our Camp.</p>
+            <pb facs="tcp:104179:2" rendition="simple:additions"/>
+            <div type="part">
+               <opener>
+                  <salute>May it pleaſe your Grace,</salute>
+               </opener>
+               <p>I was commanded to <hi>Sligo</hi> by Colonel <hi>Wooſ<g ref="char:EOLhyphen"/>ley,</hi> with three Troops of Horſe from <hi>En<g ref="char:EOLhyphen"/>neskilling,</hi> where I arrived the Tenth of this Month. The Forces I found at <hi>Sligo,</hi> ſent thi<g ref="char:EOLhyphen"/>ther before by Colonel <hi>Wooſley,</hi> under the Com<g ref="char:EOLhyphen"/>mand of Sir <hi>Albert Cunningham,</hi> were two Troops of Horſe, three Troops of Dragoons, and five Companies of Foot; two of which Companies were full, which were Major <hi>Wood</hi>'s and Captain <hi>Cooper</hi>'s; the other three were not really one Company and a half. I was hourly alarm'd at <hi>Sligo</hi> with the Threats of the Enemy falling up<g ref="char:EOLhyphen"/>on me in my Quarters, which made me chuſe rather to fall upon them in theirs, than to ſuffer them to come down to me. So that upon <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> the 19th. I marched with what force I could make towards <hi>Boyle.</hi> My Horſe conſiſted of about Two hundred, Dragoons a hundred, Foot a hun<g ref="char:EOLhyphen"/>dred and fifty. The Night I left <hi>Sligo</hi> I marched within a Mile of <hi>Ballynefade,</hi> where I hal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed about two Hours; from which Place I ſent twenty Foot, under the Command of an Enſign, ſecond<g ref="char:EOLhyphen"/>ed by a Troop of Dragoons. The Foot march<g ref="char:EOLhyphen"/>ed under the Covert of the Mountain; and ſur<g ref="char:EOLhyphen"/>prized their Centinels, which were on the top of the Mountain called <hi>Courleaes,</hi> kill'd one of them, and took three more; upon which, what Forces they had in the <hi>Boyle,</hi> lying juſt under us, drew out. Their Foot advanced Five hundred Yards upon the Mountain, and with another Party they had lined the Deer-Park Wall, which Flanked us as we marched towards them. Their Horſe, which conſiſted moſt of the <hi>Iriſh</hi> Gentry, and were five Troops, drew up in a Lane at the Foot of the Mountain, where they might have drawn up Twenty in the Front, having a Wall on the Right-hand, and a Ditch on the Left. Our Paſ<g ref="char:EOLhyphen"/>ſage to them with our Horſe, muſt have been through their Foot; after which our Way being ſo narrow and rugged, that we could not have charged them with more than three or four at moſt in the Front of us. Seeing them ſo advan<g ref="char:EOLhyphen"/>tagiouſly poſted, about Sun-riſe, at which time we had the diſadvantage of a Fog, I notwith<g ref="char:EOLhyphen"/>ſtanding commanded Sir <hi>Albert Cunningham</hi>'s Dragoons to march within ſide of the Park-wall, who Headed them himſelf, to beat off the Ambu<g ref="char:EOLhyphen"/>ſcade that lay there; which they did, and drove them into their main Body: Upon which I marched down upon each Flank of them, they having the Advantage of the Covert of the Paſs. The Right Wing of our Party, which conſiſted of about Forty Muſquetiers, was Commanded by Captain <hi>George Cooper,</hi> (who willingly obeyed my Commands, and behaved himſelf very well.) The Left Wing was Commanded by Captain <hi>Archibald Hamilton,</hi> with the like Number of Men, who behaved himſelf well alſo, but could not come to attack them the ſame time the Right Wing did, occaſioned by the illneſs of the Way. I ſecond<g ref="char:EOLhyphen"/>ed Captain <hi>Cooper</hi> with my own Troop; upon the Approach of which, and ſome few Shot fi<g ref="char:EOLhyphen"/>red from Captain <hi>Cooper,</hi> the Enemy not firing Twenty Shot at moſt, run to a Bog which was very near them, but ſoon quitted it, and took the Plain and Wood: Upon which I commanded part of the Horſe to fall upon the Flank of them; and the Foot being in the Rear, killed above Two hundred of them, as I am informed, be<g ref="char:EOLhyphen"/>ſides what lie hid yet in the Buſhes dead. Their Horſes being freſh, when they ſaw the Foot broke, immediately ran, and after they had paſſed the Town of <hi>Boyle,</hi> and came into the Plain, di<g ref="char:EOLhyphen"/>vided themſelves, and went three ſeveral ways; upon which our Horſe divided, and followed; but did not kill above Fifty, their Horſe being freſh, and ours tired with the Fatigue of the Journey, though we had the Purſuit of them ſeven Miles each way.</p>
+               <p>The main Body of our Foot, which conſiſted moſt of Pike men, was Commanded by Major <hi>Wood,</hi> who marched down very bravely, and when he found the Enemy fled, kept his Men to<g ref="char:EOLhyphen"/>gether for a Reſerve, for fear of any Reſerve of the Enemy, till he marched into Town, and poſſeſſed himſelf of it.</p>
+               <p>Our Rear-Guard of Horſe was Commanded by Captain <hi>John Aughmounty,</hi> who behaved himſelf very well in his Poſt. In fine, Both Officers and Soldiers behaved themſelves very bravely.</p>
+               <p>I have now given your Grace a full Account of the whole Action. The number of Officers taken and killed, and the number of Soldiers taken, are, Four Captains, Four Lieutenants, Three Enſigns, and One Serjeant, taken Priſoners, with Sixty nine Private Men. Our Loſs. I thank God, was but Three Private Men wounded, which I hope will recover, and one killed</p>
+               <p>The Account of the Enemy which we had when we were at <hi>Sligo</hi> was between Three and Four thouſand; but when we came to engage, I did not find their Foot above Five or Six hun<g ref="char:EOLhyphen"/>dred at moſt, and their Horſe not above Three hundred, beſides what they left in the Town and Caſtle, which they immediately quitted as ſoon as the others were routed. There were Four Colonels of the Enemy here, of which none head<g ref="char:EOLhyphen"/>ed the Foot, but run away with the Horſe, and eſcaped.</p>
+               <p>I ſend your Grace here encloſed, what was found in Colonel <hi>Kelly</hi>'s Portmantle, who was Com<g ref="char:EOLhyphen"/>mander in Chief from Brigadeer <hi>Sarsfield,</hi> which I hope will give your Grace ſatisfaction of the ſtate of this Province; though I am informed from good Hands of their Party, that they reſolve not to quit the Country, but give all the diſturbance they can. Though I was commanded to poſſeſs my ſelf of <hi>James</hi> Town, our number being ſo ſmall in compariſon of theirs, who daily flock about us, and between us and <hi>Sligo,</hi> that I chooſe rather to keep this Poſt and <hi>Sligo,</hi> than to hazzard the Loſs of all, having ſo few in number, which if I ſhould divide into thoſe Three Garriſons, would diſable me to meet any part of the Enemy that ſhould draw together, which are in great numbers in the Counties of <hi>Letrim, Roſcommo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Mayo</hi> and <hi>Sligo.</hi> I have no more to ſay, but will wait your Graces Commands, which ſhall punctually be o<g ref="char:EOLhyphen"/>beyed by</p>
+            </div>
+            <closer>
+               <signed>
+                  <hi>Your Graces Moſt Dutiful and Obedient Servant,</hi> Thomas Lloyd.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>R. Williams</hi> near <hi>Fleet-Bridge.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
